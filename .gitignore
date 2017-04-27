@@ -1,14 +1,3 @@
-.classpath
 .idea
-.project
-.metadata
-.settings
-.settings/
 *.iml
-bin
-bin/
-RemoteSystemsTempFiles/
-RemoteSystemsTempFiles
-target/
-atlassian-ide-plugin.xml
-*.versionsBackup
+out
